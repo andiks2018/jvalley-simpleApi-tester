@@ -1,0 +1,69 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "catatan": "ini hari pertama saya bekerja",
+      "status": true
+    },
+    {
+      "id": 2,
+      "catatan": "ini hari kedua saya bekerja",
+      "status": false
+    },
+    {
+      "catatan": "Hari ini saya belajar tentang kehidupan",
+      "status": true,
+      "id": 3
+    },
+    {
+      "catatan": "ini adalah hari saya belajar API",
+      "status": false,
+      "id": 4
+    },
+    {
+      "catatan": "ini adalah hari saya belajar NodeJs",
+      "status": false,
+      "id": 5
+    },
+    {
+      "catatan": "ini adalah hari saya belajar rest api",
+      "status": false,
+      "id": 6
+    },
+    {
+      "catatan": "ini adalah hari saya belajar Django",
+      "status": false,
+      "id": 7
+    },
+    {
+      "catatan": "ini adalah hari saya belajar Python",
+      "status": false,
+      "id": 8
+    },
+    {
+      "catatan": "ini adalah hari saya belajar PHP",
+      "status": false,
+      "id": 9
+    },
+    {
+      "catatan": "ini adalah hari saya belajar Laravel",
+      "status": false,
+      "id": 10
+    },
+    {
+      "catatan": "ini adalah hari saya belajar HTML",
+      "status": false,
+      "id": 11
+    },
+    {
+      "catatan": "ini adalah hari saya belajar CSS",
+      "status": false,
+      "id": 12
+    },
+    {
+      "catatan": "ini adalah hari saya belajar Javascript",
+      "status": false,
+      "id": 13
+    }
+  ]
+}
